@@ -28,11 +28,6 @@ $('.images').on('mouseleave',function(){
 })
 
 
-
-
-
-
-
 function setTimer() {
   return setInterval(() => {
     n += 1

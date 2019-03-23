@@ -27,7 +27,6 @@ $('.images').on('mouseleave',function(){
      timerId = setTimer()
 })
 
-
 function setTimer() {
   return setInterval(() => {
     n += 1
